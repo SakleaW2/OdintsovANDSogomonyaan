@@ -1,0 +1,14 @@
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\bin\Debug\net8.0\App6_4practica.exe
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\bin\Debug\net8.0\App6_4practica.deps.json
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\bin\Debug\net8.0\App6_4practica.runtimeconfig.json
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\bin\Debug\net8.0\App6_4practica.dll
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\bin\Debug\net8.0\App6_4practica.pdb
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.dll
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\refint\App6_4practica.dll
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.pdb
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\App6_4practica.genruntimeconfig.cache
+C:\Users\Богдан\Desktop\Пр4\App6_4practica\App6_4practica\obj\Debug\net8.0\ref\App6_4practica.dll

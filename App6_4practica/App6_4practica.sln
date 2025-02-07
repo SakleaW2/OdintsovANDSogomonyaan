@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App6_4practica", "App6_4practica\App6_4practica.csproj", "{905B8B12-BF80-426E-A6E8-E843DE3BFED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2_3promer_4practica", "App2_3promer_4practica\App2_3promer_4practica.csproj", "{1D2CA90E-AECA-4900-8B8D-F3CE4D163194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905B8B12-BF80-426E-A6E8-E843DE3BFED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905B8B12-BF80-426E-A6E8-E843DE3BFED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905B8B12-BF80-426E-A6E8-E843DE3BFED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905B8B12-BF80-426E-A6E8-E843DE3BFED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2CA90E-AECA-4900-8B8D-F3CE4D163194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2CA90E-AECA-4900-8B8D-F3CE4D163194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2CA90E-AECA-4900-8B8D-F3CE4D163194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2CA90E-AECA-4900-8B8D-F3CE4D163194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

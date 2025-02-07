@@ -1,0 +1,14 @@
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\bin\Debug\net8.0\App5_2.exe
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\bin\Debug\net8.0\App5_2.deps.json
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\bin\Debug\net8.0\App5_2.runtimeconfig.json
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\bin\Debug\net8.0\App5_2.dll
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\bin\Debug\net8.0\App5_2.pdb
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.dll
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\refint\App5_2.dll
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.pdb
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\App5_2.genruntimeconfig.cache
+C:\Users\Богдан\Desktop\Пр 5\App_18\App5_2\obj\Debug\net8.0\ref\App5_2.dll
