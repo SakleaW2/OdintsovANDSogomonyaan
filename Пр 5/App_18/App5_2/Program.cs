@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //многомерные массивы -> 5 формула
             int n = 5; 
             int[,] matrix = FormMatrix(n);
             for (int i = 0; i < n; i++)
